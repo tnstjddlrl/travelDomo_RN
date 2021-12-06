@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399018275577",
+    "project_id": "traveldomo-e6d0f",
+    "storage_bucket": "traveldomo-e6d0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399018275577:android:e50684e45c8607261fa828",
+        "android_client_info": {
+          "package_name": "com.semicolons.traveldomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399018275577-evfqibbfq2sr38k269n6ha3bshjg9gfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUGLXSWDA5b4hg4lJniCJcMGG83qq_SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399018275577-evfqibbfq2sr38k269n6ha3bshjg9gfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
